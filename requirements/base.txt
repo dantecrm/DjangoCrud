@@ -1,0 +1,6 @@
+Django==1.7
+bpython
+django-braces
+django-model-utils
+logutils
+
